@@ -21,6 +21,13 @@
         </dependency>
     </dependencies>
 
+    <properties>
+        <file.encoding>UTF-8</file.encoding>
+        <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
+        <java.source.version>1.8</java.source.version>
+        <java.target.version>1.8</java.target.version>
+    </properties>
+
 
 
 </project>

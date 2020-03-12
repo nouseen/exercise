@@ -13,6 +13,8 @@ public class FirstClassTest {
     public void test(){
         FirstClass firstClass = new FirstClass();
         System.out.println(firstClass.comeOn());
+
+        //:n:ZH<7tNR<Vp
     }
 
     @Test
